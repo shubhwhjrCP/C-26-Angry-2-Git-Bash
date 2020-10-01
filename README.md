@@ -1,1 +1,2 @@
-# C-26-Angry-2-Git-Bash
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
